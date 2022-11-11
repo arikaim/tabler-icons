@@ -16,3 +16,13 @@
 composer require arikaim/tabler-icons
 
 ```
+
+#### Usage
+
+In template code
+
+```twig
+
+ {{ component('tabler-icons~alarm',{ size: 'h-10 w-10' },'svg') }}
+
+```
