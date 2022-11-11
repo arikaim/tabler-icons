@@ -19,7 +19,7 @@ composer require arikaim/tabler-icons
 
 #### Usage
 
-In template code
+Template code
 
 ```twig
 
