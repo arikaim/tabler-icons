@@ -1,0 +1,10 @@
+{
+    "title": "Tabler Icons",
+    "package-type": "components",
+    "name": "tabler-icons",
+    "version": "1.0.0",
+    "description": "Tabler svg icons components library.",
+    "repository": "https://github.com/arikaim/tabler-icons.git",
+    "require": {       
+    }
+}
