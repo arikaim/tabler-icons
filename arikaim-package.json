@@ -1,6 +1,7 @@
 {
     "title": "Tabler Icons",
     "package-type": "components",
+    "type": "icons",
     "name": "tabler-icons",
     "version": "1.0.0",
     "description": "Tabler svg icons components library.",
